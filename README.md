@@ -1,1 +1,1 @@
-Taken from Jon Barron's public academic website: https://jonbarron.info/.
+Forked from Jon Barron's website template at https://jonbarron.info/.
